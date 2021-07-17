@@ -1,5 +1,8 @@
 #!/bin/bash -x
 
+echo "welcome to the world of programming"
+echo "Hello everyone"
+
 num1=10;
 num2=20;
 result=$(($num1+$num2))
